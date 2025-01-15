@@ -1,3 +1,7 @@
+Hi you might recognize me from my yt channel
+or you found me on my discord server   
+I like php and html
+
 - 👋 Hi, I’m @733402
 - 👀 I’m interested in php 
 - 🌱 I’m currently learning php
